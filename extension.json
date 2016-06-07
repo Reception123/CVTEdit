@@ -8,7 +8,7 @@
 	"descriptionmsg": "staffedit-desc",
 	"type": "other",
 	"config": {
-		"StaffEditsMessagePrefix": "sw"
+		"StaffEditsMessagePrefix": "mh"
 	},
 	"MessagesDirs": {
 		"StaffEdits": [
