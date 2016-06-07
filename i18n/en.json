@@ -7,7 +7,7 @@
 	},
 	"staffedit-desc": "Allows authorized users to tag edits as official [[Project:Staff edits|Staff edits]] in the edit view",
 	"right-staffedit": "Tag edits as official staff edits",
-	"swstaffedit": "Official " & $wgSiteName & " staff edit",
+	"swstaffedit": "Official $1 staff edit",
 	"staffedit-selector": "Tag this edit as: ",
 	"staffedit-none": "none",
 	"tag-swstaffedit": "[[Project:Staff edits|Staff edits]]",
