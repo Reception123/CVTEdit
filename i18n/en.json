@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Jack Phoenix <jack@countervandalism.net>",
-			"Justin Wright <ndkilla@miraheze.org>"
+			"Justin Wright <ndkilla@miraheze.org>",
+			"Reception123"
 		]
 	},
-	"staffedit-desc": "Allows authorized users to tag edits as official [[Project:Staff edits|Staff edits]] in the edit view",
-	"right-staffedit": "Tag edits as official staff edits",
-	"swstaffedit": "Official $1 staff edit",
+	"staffedit-desc": "Allows CVT members to tag actiosn as "CVT Actions"",
+	"right-staffedit": "Tag edits as CVT actions",
+	"swstaffedit": "Official $1 CVT edit",
 	"staffedit-selector": "Tag this edit as: ",
 	"staffedit-none": "none",
-	"tag-swstaffedit": "[[Project:Staff edits|Staff edits]]",
-	"tag-swstaffedit-description": "Edits made by [[Special:ListUsers/staff|staff]] in their official capacity"
+	"tag-swstaffedit": "[[Meta:CVT|CVT action]]",
+	"tag-swstaffedit-description": "Edits made by [[Special:ListUsers/staff|staff]] in their CVT capacity"
 }
